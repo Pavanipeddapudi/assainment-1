@@ -1,1 +1,5 @@
-# assainment-1
+shape() is used to get complete structural shape of our 2D array. For example (3,4) . np. size() will give us how many elements are present. 
+The term broadcasting refers to the ability of NumPy to treat arrays of different shapes during arithmetic operations. Arithmetic operations on arrays are usually done on corresponding elements. If two arrays are of exactly the same shape, then these operations are smoothly performed.
+ The library consists of modules for optimisation, image processing, FFT, special functions and signal processing. The SciPy package includes algorithms and functions which are the crux of Python scientific computing capabilities
+NumPy introduces a simple file format for ndarray objects. This . npy file stores data, shape, dtype and other information required to reconstruct the ndarray in a disk file such that the array is correctly retrieved even if the file is on another machine with different architecture.
+The empty() function is used to create a new array of given shape and type, without initializing entries. Shape of the empty array, e.g., (2, 3) or 2. Desired output data-type for the array, e.g, numpy
